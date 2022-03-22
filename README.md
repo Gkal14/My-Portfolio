@@ -13,3 +13,5 @@ Below you will find an image of my portfolio and a link to the deployed applicat
 
 ![application image](./assets/Portfolio-screenshot.png)
 
+Portfolio link: https://gkal14.github.io/my-portfolio/
+
